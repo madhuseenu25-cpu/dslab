@@ -1,0 +1,103 @@
+Enter size of hash table
+10
+Enter hash function (if mod 10, enter 10)
+10
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert
+25
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert
+35
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert
+15
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+3
+Index   Value
+0       Empty
+1       Empty
+2       Empty
+3       Empty
+4       Empty
+5       25
+6       35
+7       15
+8       Empty
+9       Empty
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+4
+Enter element you want to search
+35
+Element found at index 6
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+2
+Enter element to delete
+35
+Element deleted
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+3
+Index   Value
+0       Empty
+1       Empty
+2       Empty
+3       Empty
+4       Empty
+5       25
+6       Deleted
+7       15
+8       Empty
+9       Empty
+
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+0
+Exiting...
